@@ -1,4 +1,6 @@
 # PSR-6 Cache for Craft CMS
+
+[![Join the chat at https://gitter.im/flipboxfactory/craft-psr6](https://badges.gitter.im/flipboxfactory/craft-psr6.svg)](https://gitter.im/flipboxfactory/craft-psr6?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Join the chat at https://gitter.im/flipboxfactory/craft-psr6](https://badges.gitter.im/flipboxfactory/craft-psr6.svg)](https://gitter.im/flipboxfactory/craft-psr6?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Latest Version](https://img.shields.io/github/release/flipboxfactory/craft-psr6.svg?style=flat-square)](https://github.com/flipboxfactory/craft-psr6/releases)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
